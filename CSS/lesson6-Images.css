@@ -1,0 +1,17 @@
+a {
+  color: green;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  color: orange;
+}
+img {
+  height: 200px;
+  width: 200px;
+}

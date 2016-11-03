@@ -1,0 +1,32 @@
+body {
+    background-color: pink;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    color: orange;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.Octodiv {
+    background-color: red;
+    text-align: center;
+}
+
+.Orangudiv {
+    background-color: blue;
+    text-align: center;
+}
+
+#Dave {
+    font-family: Helvetica, Arial, sans-serif;
+}

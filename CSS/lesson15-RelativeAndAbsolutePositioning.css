@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+}
+
+.wrap {
+  width: 800px;
+  height: 800px;
+  position: relative;
+  background-color: lightblue;
+  margin: auto;
+}
+
+.box {
+  width: 400px;
+  height: 400px;
+  background-color: #666;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}

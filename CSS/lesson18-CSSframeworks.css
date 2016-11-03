@@ -1,0 +1,14 @@
+nav li {
+  display: inline;
+  margin-left: 0px;
+  margin-right: 30px;
+}
+main {
+  margin: 30px, 0px;
+}
+section {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 15px;
+}

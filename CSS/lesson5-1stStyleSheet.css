@@ -1,0 +1,13 @@
+a {
+  color: green;
+  text-decoration: none;
+}
+
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+}
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  color: orange;
+  text-decoration: underline;
+}

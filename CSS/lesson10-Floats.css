@@ -1,0 +1,34 @@
+body {
+  font-family: Courier, sans-serif;
+}
+
+.wrap {
+  min-width: 600px;
+  width: 80%;
+  margin: auto;
+  background-color: lightblue;
+}
+
+.content, aside {
+  height: 350px;
+}
+
+.content {
+  background-color: lightgreen;
+  float: left;
+  width: 80%;
+}
+
+aside {
+  background-color: lightgrey;
+  float: left;
+  min-width: 80px;
+  width: 20%;
+}
+aside ul {
+  padding-left: 18px;
+}
+
+footer {
+  clear: both;
+}
